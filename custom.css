@@ -1,0 +1,36 @@
+body.page-login {
+    background-image: none;
+    background-color: #2a353e !important;
+    color: #ffffff;
+}
+.page-login .input {
+    background-color: #ffffff;
+}
+.page-login .input-addon {
+    background-color: #ffffff;
+}
+.page-login .btn-primary {
+    background-color: #45b996;
+    border-color: #45b996;
+}
+.page-login .btn-primary:hover {
+    background-color: #45b996;
+    border-color: #45b996;
+}
+.page-login .fw-bold {
+    color: #ffffff;
+}
+.page-login h1 {
+  text-indent: -9999px;
+  line-height: 0;
+}
+.page-login h1::after {
+  content: "";
+  background: url(htttps://.... URL OF LOGO) no-repeat;
+  text-indent: 0;
+  height: 100px;
+  max-width: 420px;
+  display: block;
+  background-size: contain;
+  line-height: initial;
+}
